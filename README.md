@@ -26,7 +26,11 @@
 - 如果还有下一场马拉松比赛你还会参加吗？
 - 经过一个月的比拼，有什么话相对自己说？
 
+完成后请使用 班别-专业-姓名(16财管2班 林熙) 的格式在 issues 中提交作业[https://github.com/huashangxueyuan/hackathon/issues](https://github.com/huashangxueyuan/hackathon/issues)
+
 ## 终极考核（ 60% ）
+敬请期待～
+
 内容在考试开始时候公布，考核知识点
 
 - Github & Git
