@@ -7,9 +7,9 @@
 
 ## 终极考核（ 40% ）
 
-1. Github 新建项目 resume 仓库，带 README.md 。
-2. 把自己新建的 resume 仓库 clone 到本地。
-3. 在本地 resume 仓库文件夹中新建 index.html 、style.css
+1. Github 新建项目 hackathon 仓库，带 README.md 。
+2. 把自己新建的 hackathon 仓库 clone 到本地。
+3. 在本地 hackathon 仓库文件夹中新建 index.html 、style.css
 4. index.html 书写基本结构并使用 link 引入 style.css
 5. 找一个头像图片重命名为 avatar.jpg 复制到 resume 文件夹中
 6. index.html 中使用 img 标签引用图片
