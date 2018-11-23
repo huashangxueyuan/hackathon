@@ -13,7 +13,7 @@
 4. index.html 书写基本结构并使用 link 引入 style.css
 5. 找一个头像图片重命名为 avatar.jpg 复制到 resume 文件夹中
 6. index.html 中使用 img 标签引用图片
-5. 在 README.md 中写下本次活动的体验，可以参考一下格式：
+5. 在 README.md 中写下本次活动的体验，需要有以下要点：
 
 - 你当初为什么要参加这次编程马拉松活动？
 - 之前是否有编程基础？
