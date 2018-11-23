@@ -24,7 +24,7 @@
 - 比赛过程中有考虑过放弃吗？是什么支撑你跑到终点？
 - 你最想和赛事组工作人员说什么？或者吐槽赛制组在工作中哪些地方做得不够好？
 - 如果还有下一场马拉松比赛你还会参加吗？
-- 经过一个月的比拼，有什么话相对自己说？
+- 经过一个月的比拼，有什么话想对自己说？
 
 完成后请使用 班别-专业-姓名(16财管2班 林熙) 的格式在 issues 中提交作业[https://github.com/huashangxueyuan/hackathon/issues](https://github.com/huashangxueyuan/hackathon/issues)
 
