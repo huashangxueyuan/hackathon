@@ -29,18 +29,27 @@
 完成后请使用 班别-专业-姓名(16财管2班 林熙) 的格式在 issues 中提交作业[https://github.com/huashangxueyuan/hackathon/issues](https://github.com/huashangxueyuan/hackathon/issues)
 
 ## 终极考核（ 60% ）
-敬请期待～
-
-内容在考试开始时候公布，考核知识点
-
-- Github & Git
-- HTML
-- CSS
 
 参赛选手到场选择电脑后，请依次下载以下软件：
 
 - SublimeText [32 位](https://q2.cdn.prodegree.com/aitschool/2018/1030/qhq4D6z1yLghTg5XKUTnvfjHpa7mL6PgABzTKlKT.exe) [64 位](https://q2.cdn.prodegree.com/aitschool/2018/1030/A9DIEq60dti0WpysyyB6PdQwLqxj9gE0LaSRASOP.exe)
 - GitBash [32 位](https://q2.cdn.prodegree.com/aitschool/2018/1029/yObMSY0JTzI8N76c6RLpPTA8mUbuaKlpkge0Lf7e.exe?attname=Git-2.19.1-32-bit.exe) [64 位](https://q2.cdn.prodegree.com/aitschool/2018/1029/ZnxS1TxxStoB9C9yTTU6i4l0xa38d6PPVGCQEmuB.exe?attname=Git-2.19.1-64-bit.exe)
+
+
+在上节简历的仓库的基础上，完成一个关于个人介绍的小网页，事例如下：
+
+![](./resume_result.png)
+
+## 积分规则：
+
+1. 全屏背景颜色/背景图。 + 1 分
+2. 卡片内容距离浏览器上下左右居中，并有背景颜色。 + 1 分
+3. 内容包含「 圆形的 」头像图片。 + 1 分
+4. 内容包含姓名、班级、描述并分别设置不同的文字大小。 + 1 分
+5. 内容包含「 Github 个人页面 」外部链接，可以新页面打开。 + 1分
+6. 卡片和内容都设置边距，不粘在一起。 + 1 分 
+
+注意：分数相同情况下，排名按照提交顺序排名。
 
 
 
