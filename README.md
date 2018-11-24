@@ -36,3 +36,14 @@
 - Github & Git
 - HTML
 - CSS
+
+参赛选手到场选择电脑后，请依次下载以下软件：
+
+- SublimeText [Sublime Text Build 3176 x32 Setup.exe](https://q2.cdn.prodegree.com/aitschool/2018/1030/qhq4D6z1yLghTg5XKUTnvfjHpa7mL6PgABzTKlKT.exe) [Sublime Text Build 3176 x64 Setup.exe](https://q2.cdn.prodegree.com/aitschool/2018/1030/A9DIEq60dti0WpysyyB6PdQwLqxj9gE0LaSRASOP.exe)
+- GitBash [window 32 位](https://q2.cdn.prodegree.com/aitschool/2018/1029/yObMSY0JTzI8N76c6RLpPTA8mUbuaKlpkge0Lf7e.exe?attname=Git-2.19.1-32-bit.exe) [window 64 位](https://q2.cdn.prodegree.com/aitschool/2018/1029/ZnxS1TxxStoB9C9yTTU6i4l0xa38d6PPVGCQEmuB.exe?attname=Git-2.19.1-64-bit.exe)
+
+
+
+
+
+
